@@ -7,6 +7,7 @@ to renewable energy sources.
 
 The system employs a caching strategy using PostgreSQL to minimize API usage and improve performance, while Linear Regression algorithms in the backend provide forecasting data
 for future renewable adoption.
+
 🚀 Key Features
 
     Interactive Visualization: Dynamic charts (Line, Bar, Pie) rendering real-time data on Electricity, Oil, and Renewables using Recharts.
